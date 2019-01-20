@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Intellibrain/precache-manifest.eaa1e0dc902487a293913714cdd8ccdb.js"
+  "/Intellibrain/precache-manifest.9dff599169c16db05fe90dfc7084829b.js"
 );
 
 workbox.clientsClaim();

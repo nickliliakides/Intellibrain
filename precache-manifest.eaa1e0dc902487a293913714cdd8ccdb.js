@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/Intellibrain/static/js/runtime~main.be19df19.js"
   },
   {
-    "revision": "cd12387c9e4ca6464b61",
-    "url": "/Intellibrain/static/js/main.cd12387c.chunk.js"
+    "revision": "cb8cd5fd5cd3ffc3e123",
+    "url": "/Intellibrain/static/js/main.cb8cd5fd.chunk.js"
   },
   {
     "revision": "8aaeb0953cd898a2834a",
     "url": "/Intellibrain/static/js/1.8aaeb095.chunk.js"
   },
   {
-    "revision": "cd12387c9e4ca6464b61",
+    "revision": "cb8cd5fd5cd3ffc3e123",
     "url": "/Intellibrain/static/css/main.3defc323.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Intellibrain/static/css/1.b93452dd.chunk.css"
   },
   {
-    "revision": "9f86715720df59497e3ffd2554e626a8",
+    "revision": "1dc9b53333a4b5051c59aaafdd09b8b4",
     "url": "/Intellibrain/index.html"
   }
 ];
